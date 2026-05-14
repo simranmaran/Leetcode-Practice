@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/simranmaran/Leetcode-Practice/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/simranmaran/Leetcode-Practice/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

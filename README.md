@@ -7,17 +7,20 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/simranmaran/Leetcode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/simranmaran/Leetcode-Practice/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/simranmaran/Leetcode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -26,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/simranmaran/Leetcode-Practice/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +52,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -57,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

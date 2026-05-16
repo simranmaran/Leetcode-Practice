@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/simranmaran/Leetcode-Practice/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1518-water-bottles](https://github.com/simranmaran/Leetcode-Practice/tree/main/1518-water-bottles/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

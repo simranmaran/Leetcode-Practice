@@ -1,38 +1,44 @@
+<div align="center">
+
 # 💻✨ LeetCode Practice Journey
 
-<h3 align="center">🚀 Building Logic Daily | DSA + Consistency</h3>
+### 🚀 Building Logic Daily | DSA + Consistency
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Daily+LeetCode+Practice;Improving+Problem+Solving;Future+Software+Engineer🚀" />
+
+</div>
 
 ---
 
-## 🕒 📅 Learning Timeline (Unique Look)
+## 🕒 📅 Learning Timeline
 
 ```mermaid
 timeline
     title My DSA Journey
-    Day 1  : Started LeetCode
-    Week 1 : Solved Easy Problems
+    Day 1  : Started LeetCode 🚀
+    Week 1 : Easy Problems Mastered
     Week 3 : Medium Questions Start
     Month 2 : Strong in Arrays & Hashing
-    Future : Master DSA + Placement Ready 🚀
+    Future : Crack Placement 💼
 ```
 
 ---
 
-## 🧠 📊 Problem Solving Quadrant
+## 🧠 📊 Problem Solving Mindset
 
 ```mermaid
 quadrantChart
-    title Problem Solving Skills
+    title My Thinking Approach
     x-axis Low Effort --> High Effort
     y-axis Low Understanding --> High Understanding
-    quadrant-1 Smart Work
-    quadrant-2 Hard Work
-    quadrant-3 Confusion
+    quadrant-1 Smart Work 🧠
+    quadrant-2 Hard Work 💪
+    quadrant-3 Confusion 😵
     quadrant-4 Growth Zone 🚀
-    Practice Daily: [0.7, 0.8]
-    Revision: [0.6, 0.9]
-    Random Guess: [0.3, 0.2]
-    Learning Concepts: [0.8, 0.95]
+    Practice Daily: [0.75, 0.85]
+    Revision: [0.65, 0.9]
+    Guessing: [0.3, 0.2]
+    Concept Learning: [0.85, 0.95]
 ```
 
 ---
@@ -50,11 +56,11 @@ Leetcode-Practice/
 
 ---
 
-## 🧩 🧠 Skills Radar (Different Style)
+## 🧩 📊 Skills Overview
 
 ```mermaid
 radar
-    title Coding Skills
+    title Coding Strength
     Arrays : 80
     Strings : 70
     Hashing : 75
@@ -68,14 +74,29 @@ radar
 
 ```mermaid
 pyramid
-    title Learning Growth
-    "Consistency" : 100
-    "Practice" : 80
-    "Concept Clarity" : 60
-    "Speed" : 40
-    "Mastery" : 20
+    title My Growth Path
+    "Consistency 🔥" : 100
+    "Practice 💻" : 80
+    "Concept Clarity 🧠" : 60
+    "Speed ⚡" : 40
+    "Mastery 🏆" : 20
 ```
 
+---
+
+## 📊 🚀 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simranmaran&theme=tokyonight" />
+
+</div>
 
 
-⭐ Star this repo if you like my journey!
+<div align="center">
+
+⭐ If you like this repo, give it a star — it motivates me!
+
+</div>

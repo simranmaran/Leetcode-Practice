@@ -33,38 +33,9 @@
 
 ## 📋 Solutions Archive
 
-<div align="center">
 
-| # | Problem | Difficulty | Topic | Time | Space | Runtime | Memory | Rank |
-|:---:|:--------|:----------:|:-----:|:----:|:-----:|:-------:|:------:|:----:|
-| [0001](./0001-two-sum/) | **Two Sum** | 🟢 Easy | `Hash Map` | O(n) | O(n) | 35 ms | 14.1 MB | 34.74% |
-| [0004](./0004-median-of-two-sorted-arrays/) | **Median of Two Sorted Arrays** | 🔴 Hard | `Binary Search` | O(log n) | O(1) | 3 ms | 96 MB | 27.93% |
-| [0009](./0009-palindrome-number/) | **Palindrome Number** | 🟢 Easy | `Math` | O(log n) | O(1) | 7 ms | 8.4 MB | 15.02% |
-| [0231](./0231-power-of-two/) | **Power of Two** | 🟢 Easy | `Bit Manip` | O(1) | O(1) | **0 ms 🏆** | 7.8 MB | **100%** |
-| [0268](./0268-missing-number/) | **Missing Number** | 🟢 Easy | `XOR / Math` | O(n) | O(1) | **0 ms 🏆** | 21.8 MB | **100%** |
-| [0509](./0509-fibonacci-number/) | **Fibonacci Number** | 🟢 Easy | `DP` | O(n) | O(1) | **0 ms 🏆** | 7.8 MB | **100%** |
-| [0989](./0989-add-to-array-form-of-integer/) | **Add to Array-Form of Integer** | 🟢 Easy | `Array + Math` | O(n) | O(n) | 8 ms | 32.6 MB | 5.71% |
-| [1137](./1137-n-th-tribonacci-number/) | **N-th Tribonacci Number** | 🟢 Easy | `DP` | O(n) | O(1) | **0 ms 🏆** | 7.9 MB | **100%** |
-| [1464](./1464-maximum-product-of-two-elements-in-an-array/) | **Maximum Product of Two Elements** | 🟢 Easy | `Greedy` | O(n) | O(1) | **0 ms 🏆** | 13.3 MB | **100%** |
-| [1518](./1518-water-bottles/) | **Water Bottles** | 🟡 Medium | `Simulation` | O(log n) | O(1) | 0 ms | 7.8 MB | 43.31% |
 
-</div>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetHub](https://img.shields.io/badge/LeetHub-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
@@ -103,18 +74,3 @@
 
 </div>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0977-squares-of-a-sorted-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
-<!---LeetCode Topics End-->

@@ -1,52 +1,46 @@
-# 🚀 LeetCode Practice Journey
+# 💻✨ LeetCode Practice Journey
 
-<h3 align="center">💡 Turning Logic into Code | Daily DSA Practice</h3>
+<h3 align="center">🚀 Building Logic Daily | DSA + Consistency</h3>
 
 ---
 
-## 📊 📈 My Coding Flow (Diagram)
+## 🕒 📅 Learning Timeline (Unique Look)
 
 ```mermaid
-flowchart LR
-    A[Start Daily Practice] --> B[Pick 2-3 Questions]
-    B --> C[Try Yourself 15-20 min]
-    C -->|Solved| D[Optimize Code]
-    C -->|Not Solved| E[Learn Approach]
-    E --> D
-    D --> F[Push to GitHub]
-    F --> G[Revise Weekly]
+timeline
+    title My DSA Journey
+    Day 1  : Started LeetCode
+    Week 1 : Solved Easy Problems
+    Week 3 : Medium Questions Start
+    Month 2 : Strong in Arrays & Hashing
+    Future : Master DSA + Placement Ready 🚀
 ```
 
 ---
 
-## 📌 About This Repository
-
-✨ This repository contains my daily LeetCode problem-solving journey.
-
-✔️ Practicing Data Structures & Algorithms
-✔️ Building strong logic for coding interviews
-✔️ Maintaining consistency every day
-
----
-
-## 🧠 Problem Solving Strategy (Visual)
+## 🧠 📊 Problem Solving Quadrant
 
 ```mermaid
-graph TD
-    A[Read Problem] --> B[Understand Input/Output]
-    B --> C[Brute Force Idea]
-    C --> D[Optimize Approach]
-    D --> E[Code Implementation]
-    E --> F[Test Cases]
+quadrantChart
+    title Problem Solving Skills
+    x-axis Low Effort --> High Effort
+    y-axis Low Understanding --> High Understanding
+    quadrant-1 Smart Work
+    quadrant-2 Hard Work
+    quadrant-3 Confusion
+    quadrant-4 Growth Zone 🚀
+    Practice Daily: [0.7, 0.8]
+    Revision: [0.6, 0.9]
+    Random Guess: [0.3, 0.2]
+    Learning Concepts: [0.8, 0.95]
 ```
 
 ---
 
-## 📂 Repository Structure
+## 📦 🗂️ Repository Structure
 
 ```bash
 Leetcode-Practice/
-│
 ├── 0001-two-sum/
 ├── 0004-median-of-two-sorted-arrays/
 ├── 0268-missing-number/
@@ -56,42 +50,31 @@ Leetcode-Practice/
 
 ---
 
-## 🔥 Topics Covered
-
-🟢 Arrays
-🟢 Strings
-🟢 Hashing
-🟢 Two Pointers
-🟢 Recursion
-🟡 Dynamic Programming (Coming Soon...)
-
----
-
-## 📈 Progress Tracker
+## 🧩 🧠 Skills Radar (Different Style)
 
 ```mermaid
-pie
-    title Problems Solved
-    "Easy" : 20
-    "Medium" : 10
-    "Hard" : 2
+radar
+    title Coding Skills
+    Arrays : 80
+    Strings : 70
+    Hashing : 75
+    Recursion : 60
+    DP : 40
 ```
 
 ---
 
-
-## 📅 Consistency Tracker
+## 🔺 📈 Growth Pyramid
 
 ```mermaid
-gantt
-    title Daily Practice Plan
-    dateFormat  YYYY-MM-DD
-    section Practice
-    Solve Problems :done,    des1, 2026-05-01, 10d
-    Revision       :active,  des2, 2026-05-11, 10d
+pyramid
+    title Learning Growth
+    "Consistency" : 100
+    "Practice" : 80
+    "Concept Clarity" : 60
+    "Speed" : 40
+    "Mastery" : 20
 ```
-
----
 
 
 

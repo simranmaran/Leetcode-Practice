@@ -31,6 +31,43 @@
 
 ---
 
+## 📊 Stats
+
+<div align="center">
+
+![Solved](https://img.shields.io/badge/Total%20Solved-10-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Easy](https://img.shields.io/badge/Easy-7-00b8a3?style=for-the-badge&labelColor=0d1117)
+![Medium](https://img.shields.io/badge/Medium-2-ffc01e?style=for-the-badge&labelColor=0d1117)
+![Hard](https://img.shields.io/badge/Hard-1-ef4743?style=for-the-badge&labelColor=0d1117)
+![Perfect](https://img.shields.io/badge/🏆%20Perfect%20Runtime-5-ffd700?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🧑‍💻 Coding Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="420">
+      <img src="https://leetcard.jacoblin.cool/Simranmaran?theme=dark&font=Karma&ext=heatmap" width="100%" />
+    </td>
+    <td align="center" width="200" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Easy-7-00b8a3?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Medium-2-ffc01e?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Hard-1-ef4743?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/🏆 Perfect-5-ffd700?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Total-10 Solved-00d4ff?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ## 📋 Solutions Archive
 
 

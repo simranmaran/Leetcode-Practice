@@ -93,4 +93,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->

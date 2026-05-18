@@ -93,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 <!---LeetCode Topics End-->

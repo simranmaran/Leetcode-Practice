@@ -17,17 +17,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Solved](https://img.shields.io/badge/Total%20Solved-10-00d4ff?style=for-the-badge&labelColor=0d1f3c)
-![Easy](https://img.shields.io/badge/Easy-7-3fb950?style=for-the-badge&labelColor=0d1f3c)
-![Medium](https://img.shields.io/badge/Medium-2-d29922?style=for-the-badge&labelColor=0d1f3c)
-![Hard](https://img.shields.io/badge/Hard-1-f85149?style=for-the-badge&labelColor=0d1f3c)
-![Perfect](https://img.shields.io/badge/🏆%20Perfect%20Runtime-5-ffd700?style=for-the-badge&labelColor=0d1f3c)
-
-</div>
 
 ---
 

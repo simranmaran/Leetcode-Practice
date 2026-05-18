@@ -81,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

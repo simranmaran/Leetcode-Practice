@@ -124,6 +124,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -138,4 +139,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

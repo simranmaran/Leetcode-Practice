@@ -135,6 +135,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/simranmaran/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Counting
@@ -153,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranmaran/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/simranmaran/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->

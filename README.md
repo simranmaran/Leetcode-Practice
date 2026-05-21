@@ -113,10 +113,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranmaran/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -158,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/simranmaran/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->

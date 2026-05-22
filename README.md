@@ -149,10 +149,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/simranmaran/Leetcode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/simranmaran/Leetcode-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

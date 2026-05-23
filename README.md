@@ -141,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/simranmaran/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
+| [0118-pascals-triangle](https://github.com/simranmaran/Leetcode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0136-single-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -174,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/simranmaran/Leetcode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/simranmaran/Leetcode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

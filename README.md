@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/simranmaran/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/simranmaran/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@
 | [0002-add-two-numbers](https://github.com/simranmaran/Leetcode-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/simranmaran/Leetcode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/simranmaran/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |

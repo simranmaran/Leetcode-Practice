@@ -134,6 +134,7 @@
 | [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/simranmaran/Leetcode-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/simranmaran/Leetcode-Practice/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0258-add-digits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/simranmaran/Leetcode-Practice/tree/main/0319-bulb-switcher/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/simranmaran/Leetcode-Practice/tree/main/0070-climbing-stairs/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->

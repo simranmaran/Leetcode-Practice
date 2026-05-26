@@ -121,6 +121,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/simranmaran/Leetcode-Practice/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -188,4 +189,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0258-add-digits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->

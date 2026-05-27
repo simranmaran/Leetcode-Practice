@@ -127,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/simranmaran/Leetcode-Practice/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@
 | [0035-search-insert-position](https://github.com/simranmaran/Leetcode-Practice/tree/main/0035-search-insert-position/) | Easy |
 | [0118-pascals-triangle](https://github.com/simranmaran/Leetcode-Practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0136-single-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/simranmaran/Leetcode-Practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Counting

@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:0d1f3c,100:0a0e1a&height=220&section=header&text=Leetcode%20Practice&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=⚡%20Sharpening%20DSA%20one%20commit%20at%20a%20time%20⚡&descSize=16&descAlignY=64&descColor=7ecfff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%" alt="Simran's LeetCode Practice"/>
 
@@ -198,4 +198,69 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/simranmaran/Leetcode-Practice/tree/main/0190-reverse-bits/) | Easy |
-<!---LeetCode Topics End-->
+<!---LeetCode Topics End--> -->
+
+
+---
+
+## 📊 Practice Snapshot
+
+<div align="center">
+
+![Total](https://img.shields.io/badge/Total%20Solved-18-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Easy](https://img.shields.io/badge/Easy-14-00b8a3?style=for-the-badge&labelColor=0d1117)
+![Medium](https://img.shields.io/badge/Medium-3-ffc01e?style=for-the-badge&labelColor=0d1117)
+![Hard](https://img.shields.io/badge/Hard-1-ef4743?style=for-the-badge&labelColor=0d1117)
+![Perfect](https://img.shields.io/badge/🏆%20Perfect%20Runtime-5-ffd700?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🧑‍💻 Coding Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="430">
+      <img src="https://leetcard.jacoblin.cool/Simranmaran?theme=dark&font=Karma&ext=heatmap" width="100%" alt="LeetCode Stats"/>
+    </td>
+    <td align="center" width="220" valign="middle">
+      <img src="https://img.shields.io/badge/Easy-14-00b8a3?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Medium-3-ffc01e?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Hard-1-ef4743?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Total-18%20Solved-00d4ff?style=flat-square&labelColor=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-Clean%20Solutions-00599C?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📋 Solutions Archive
+
+| Category | Problems |
+| ------- | -------: |
+| Array | 7 |
+| Math | 7 |
+| String | 4 |
+| Bit Manipulation | 4 |
+| Dynamic Programming | 3 |
+| Linked List | 2 |
+| Recursion | 2 |
+| Binary Search | 1 |
+| Sliding Window | 1 |
+| Memoization | 1 |
+| Hard Problems | 1 |
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening **Dynamic Programming**
+- Practicing clean **C++ implementations**
+- Improving runtime and memory usage
+- Building consistency through daily commits

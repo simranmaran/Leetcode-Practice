@@ -103,3 +103,19 @@
 
 </div>
  -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
+<!---LeetCode Topics End-->

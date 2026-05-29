@@ -110,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -119,9 +120,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->

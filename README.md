@@ -111,6 +111,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+| [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -127,4 +128,12 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->

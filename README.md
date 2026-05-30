@@ -112,6 +112,7 @@
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simranmaran/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Binary Search
@@ -151,4 +152,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

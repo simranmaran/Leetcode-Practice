@@ -116,6 +116,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
+| [1929-concatenation-of-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -181,4 +182,8 @@
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->

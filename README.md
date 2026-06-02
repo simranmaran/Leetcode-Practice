@@ -109,6 +109,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simranmaran/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -161,6 +162,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |

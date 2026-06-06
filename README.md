@@ -119,6 +119,7 @@
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/simranmaran/Leetcode-Practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -137,6 +138,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
+| [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
 ## Dynamic Programming
@@ -186,6 +188,7 @@
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simranmaran/Leetcode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

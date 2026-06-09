@@ -110,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/simranmaran/Leetcode-Practice/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/simranmaran/Leetcode-Practice/tree/main/0066-plus-one/) | Easy |
@@ -210,4 +211,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->

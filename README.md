@@ -117,6 +117,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simranmaran/Leetcode-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/simranmaran/Leetcode-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -162,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/simranmaran/Leetcode-Practice/tree/main/0066-plus-one/) | Easy |
+| [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/simranmaran/Leetcode-Practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -215,4 +217,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0039-combination-sum/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->

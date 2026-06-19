@@ -128,6 +128,7 @@
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/simranmaran/Leetcode-Practice/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/simranmaran/Leetcode-Practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1051-height-checker](https://github.com/simranmaran/Leetcode-Practice/tree/main/1051-height-checker/) | Easy |
 | [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/simranmaran/Leetcode-Practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2498-frog-jump-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/2498-frog-jump-ii/) | Medium |
@@ -201,6 +202,7 @@
 | [0506-relative-ranks](https://github.com/simranmaran/Leetcode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/simranmaran/Leetcode-Practice/tree/main/0645-set-mismatch/) | Easy |
+| [1051-height-checker](https://github.com/simranmaran/Leetcode-Practice/tree/main/1051-height-checker/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/simranmaran/Leetcode-Practice/tree/main/1051-height-checker/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

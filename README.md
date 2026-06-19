@@ -124,6 +124,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/simranmaran/Leetcode-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0506-relative-ranks](https://github.com/simranmaran/Leetcode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/simranmaran/Leetcode-Practice/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1306-jump-game-iii](https://github.com/simranmaran/Leetcode-Practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -195,6 +196,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/simranmaran/Leetcode-Practice/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/simranmaran/Leetcode-Practice/tree/main/0561-array-partition/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -231,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/simranmaran/Leetcode-Practice/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->

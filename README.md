@@ -119,6 +119,7 @@
 | [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/simranmaran/Leetcode-Practice/tree/main/0455-assign-cookies/) | Easy |
@@ -179,6 +180,7 @@
 | [0001-two-sum](https://github.com/simranmaran/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/simranmaran/Leetcode-Practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/simranmaran/Leetcode-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/simranmaran/Leetcode-Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
@@ -225,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/simranmaran/Leetcode-Practice/tree/main/0204-count-primes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/simranmaran/Leetcode-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->

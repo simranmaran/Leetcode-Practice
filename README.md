@@ -247,4 +247,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/simranmaran/Leetcode-Practice/tree/main/0645-set-mismatch/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/simranmaran/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/simranmaran/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/simranmaran/Leetcode-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
